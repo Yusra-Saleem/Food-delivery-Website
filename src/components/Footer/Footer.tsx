@@ -51,7 +51,7 @@ export default function Footer() {
         <div className="py-12 border-b border-white/10">
           <div className="text-center mb-8">
               <h3 className="text-2xl sm:text-3xl font-bold text-white mb-4">
-              Stay Updated with <span className="gradient-text">Yusra Saleem</span>
+              Stay Updated with <span className="gradient-text">UrbanSpice</span>
             </h3>
             <p className="text-white/80 max-w-2xl mx-auto">
               Get the latest updates on new dishes, exclusive offers, and special events
